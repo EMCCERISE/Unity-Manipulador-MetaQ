@@ -1,0 +1,21 @@
+# ninja log v5
+117	662	7527829573067043	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	35771d6389ee7425
+34	3891	7527829605295237	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cc2aba639d706974
+4	2868	7527829595029568	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c21c37d532184b7c
+667	2006	7527829583209782	D:/Documents/Codes/LynxMotionSliders2023.Meta/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6dz3d2g6/obj/arm64-v8a/libswappywrapper.so	6958ef9bc9915448
+48	2892	7527829595191752	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b790d8e526979218
+21	3326	7527829599667149	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cb76c818f434801e
+77	3000	7527829596363486	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	69d672e41808a2f6
+92	3249	7527829598922384	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cca9e1da9d120cae
+62	3711	7527829603546537	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	af0bb8ecb1332cc8
+3892	4729	7527829611551989	D:/Documents/Codes/LynxMotionSliders2023.Meta/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6dz3d2g6/obj/arm64-v8a/libgame.so	d80a8ac8a821aa30
+2143	2584	7554571334782168	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	35771d6389ee7425
+2102	5311	7554571361128403	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b790d8e526979218
+1898	5317	7554571361406682	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c21c37d532184b7c
+2123	5391	7554571362623641	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	69d672e41808a2f6
+2586	5555	7554571359942889	D:/Documents/Codes/LynxMotionSliders2023.Meta/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6dz3d2g6/obj/arm64-v8a/libswappywrapper.so	6958ef9bc9915448
+2084	5700	7554571365875285	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cca9e1da9d120cae
+1881	5809	7554571366962068	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cb76c818f434801e
+36	6152	7554571370399555	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	af0bb8ecb1332cc8
+2067	6337	7554571372259254	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cc2aba639d706974
+6338	7184	7554571378873336	D:/Documents/Codes/LynxMotionSliders2023.Meta/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6dz3d2g6/obj/arm64-v8a/libgame.so	d80a8ac8a821aa30

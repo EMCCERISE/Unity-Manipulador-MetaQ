@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Tests/PlayMode/PlayModeTestScenes/TargetPlacementTest.unity
+    guid: 3d328f38f71b71e47bb8d96869012ffe
+  - enabled: 0
+    path: Assets/Tests/PlayMode/PlayModeTestScenes/TargetPlacementTest.unity
+    guid: 3d328f38f71b71e47bb8d96869012ffe
+  - enabled: 0
+    path: Assets/Scenes/LynxMotionTestScene.unity
+    guid: 18b2486030ca2e747a0ebe2373e2fc72
+  - enabled: 0
+    path: Assets/Scenes/LynxMotionIKScene.unity
+    guid: 38abad69f09b3a84bbb4cc449fea9ec2
+  - enabled: 0
+    path: Assets/Scenes/myCobotIKScene.unity
+    guid: 6b9d07f3522f88d45a13dc4725c3d50a
+  - enabled: 1
+    path: Assets/Scenes/myCobotIKSceneGripperFinal.unity
+    guid: 3f58a89576d0359419704599e5f30710
+  - enabled: 0
+    path: Assets/Scenes/myCobotIKSceneGripperMeta.unity
+    guid: 9ab47471e764ddb4e83cc5c8b873a94f
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f5083959e39498340a83b6819363b59a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5a117ce4db022c847a0f890da786833c, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,21 @@
+                    -HD:\Documents\Codes\LynxMotionSliders2023\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=28
+-DANDROID_PLATFORM=android-28
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=D:\Spellbook\Unity Editor\2023.2.14f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_ANDROID_NDK=D:\Spellbook\Unity Editor\2023.2.14f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_TOOLCHAIN_FILE=D:\Spellbook\Unity Editor\2023.2.14f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Spellbook\Unity Editor\2023.2.14f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Documents\Codes\LynxMotionSliders2023\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1k4c665j\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\Documents\Codes\LynxMotionSliders2023\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1k4c665j\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-DCMAKE_FIND_ROOT_PATH=D:\Documents\Codes\LynxMotionSliders2023\.utmp\RelWithDebInfo\1k4c665j\prefab\armeabi-v7a\prefab
+-BD:\Documents\Codes\LynxMotionSliders2023\.utmp\RelWithDebInfo\1k4c665j\armeabi-v7a
+-GNinja
+-DBUILD_GRADLE_DIRECTORY=D:\Documents\Codes\LynxMotionSliders2023\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary
+-DANDROID_STL=c++_shared
+                    Build command args: []
+                    Version: 2
